@@ -1,0 +1,8 @@
+brain cancer
+colon cancer
+lung cancer
+breast cancer
+prostate cancer
+leukemia
+melanoma
+pancreatic cancer
