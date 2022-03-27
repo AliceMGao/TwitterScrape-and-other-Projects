@@ -13,7 +13,7 @@ This project included 2 major deliverables I created from python in conjunction 
 All relevant data collected from previously running the Twitter miner application and the CSV for the project are included in the zip file: <a href="https://github.com/AliceMGao/TwitterScrape-and-other-Projects/blob/504df220da402d86b446a82de514a6d837cd492a/TwitterScrape_andCancerFrequencyVisualization.zip">TwitterScrape_andCancerFrequencyVisualization.zip.</a> Below is a gif preview of what it looks like in the browser after extracting all files and opening the Html page to navigate API results.
 <img src='TwitterScrape_Cancer.gif' width='1220'>
 
-This project was interesting in that it connected different programming, data analysis, and web API training I completed during coursework, fully bringing together programming tools in python like matplotlib, pandas, pymysql, and coding for HTML, JSON, and 3rd party API providers (Twitter, Gmail) to create an interesting data visualization API that’s customizable to a specific use case for reporting and analysis. 
+This project was interesting in that it connected different programming, data analysis, and web API training I completed during coursework, fully bringing together programming tools in python like matplotlib, pandas, pymssql, and coding for HTML, JSON, and 3rd party API providers (Twitter, Gmail) to create an interesting data visualization API that’s customizable to a specific use case for reporting and analysis. 
 
 Frequent testing, iterative development scaling up on small segments of performing code was important in the success of the applications in collecting information and parsing it into usable data, practices I learned core in any research or web API project based on a large volume of raw data.
 
